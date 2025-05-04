@@ -5,9 +5,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-
-#define MAX_LINHA 1024
-#define MAX_ITENS 512
+#define MAX_LINHA 5000
+#define MAX_ITENS 1024
 
 typedef struct {
   double x, y;
