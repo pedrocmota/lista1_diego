@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.json": "jsonc",
+    "*.env": "env",
+    "*.env.example": "env",
+    "stdio.h": "c",
+    "stdlib.h": "c",
+    "tipos.h": "c",
+    "validacoes.h": "c",
+    "stddef.h": "c",
+    "biblioteca.h": "c",
+    "string.h": "c",
+    "time.h": "c"
+  }
+}
